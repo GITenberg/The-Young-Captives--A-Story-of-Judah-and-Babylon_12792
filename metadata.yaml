@@ -1,10 +1,13 @@
 _repo: The-Young-Captives--A-Story-of-Judah-and-Babylon_12792
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Hayne, Mark
     gutenberg_agent_id: '4596'
     url: http://www.gutenberg.org/2009/agents/4596
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jones, Erasmus W.
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '4583'
     url: http://www.gutenberg.org/2009/agents/4583
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12792#The-Young-Captives--A-Story-of-Judah-and-Babylon
 gutenberg_issued: '2004-06-30'
 gutenberg_type: Text
 identifiers:
